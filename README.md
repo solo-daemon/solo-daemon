@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Hello, I am Amrit Prakash
 I am a student at IIT Roorkee majoring in Mechanical Engineering and I am a passionate software developer👩🏾‍💻.<br> 
-👯 I am part of <a href="https://channeli.in/maintainer_site/"><img src="https://avatars.githubusercontent.com/u/1070632?s=200&v=4" height="25px" alt="IMG"> IMG - Information Management Group</a> Github : [IMG](https://github.com/IMGIITRoork) <br>
+👯 Project Leader at <a href="https://channeli.in/maintainer_site/"><img src="https://avatars.githubusercontent.com/u/1070632?s=200&v=4" height="25px" alt="IMG"> IMG - Information Management Group</a> Github : [IMG](https://github.com/IMGIITRoork) <br>
 📫 linkedin - [https://www.linkedin.com/in/](https://www.linkedin.com/in/amrit-prakash-b544ab222) <br>
 💬 Ask me about anything tech related, I am happy to help.<br>
 
